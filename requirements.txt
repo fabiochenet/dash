@@ -1,0 +1,8 @@
+streamlit
+pandas
+pyodbc
+streamlit-authenticator
+office365-sharepoint-pnp
+python-dotenv
+bcrypt
+pyyaml
