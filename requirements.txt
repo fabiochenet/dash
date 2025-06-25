@@ -8,3 +8,4 @@ bcrypt
 pyyaml
 # ... outras bibliotecas
 ibm_db
+libsql
